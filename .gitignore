@@ -1,0 +1,9 @@
+# build / editor noise
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# runtime output (never commit)
+*.log
